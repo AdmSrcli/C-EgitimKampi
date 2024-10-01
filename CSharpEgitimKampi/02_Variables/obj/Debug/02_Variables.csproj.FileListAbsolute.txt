@@ -1,0 +1,7 @@
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe.config
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.pdb
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.exe
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.pdb
