@@ -1,0 +1,7 @@
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.exe.config
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.exe
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.pdb
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.csproj.AssemblyReference.cache
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.exe
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.pdb
