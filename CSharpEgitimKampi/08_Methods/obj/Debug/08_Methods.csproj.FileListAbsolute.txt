@@ -1,0 +1,7 @@
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\08_Methods\bin\Debug\08_Methods.exe.config
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\08_Methods\bin\Debug\08_Methods.exe
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\08_Methods\bin\Debug\08_Methods.pdb
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.csproj.AssemblyReference.cache
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.csproj.CoreCompileInputs.cache
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.exe
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.pdb
