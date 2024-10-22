@@ -1,0 +1,7 @@
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\09_Database Project\bin\Debug\09_Database Project.exe.config
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\09_Database Project\bin\Debug\09_Database Project.exe
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\09_Database Project\bin\Debug\09_Database Project.pdb
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\09_Database Project\obj\Debug\09_Database Project.csproj.AssemblyReference.cache
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\09_Database Project\obj\Debug\09_Database Project.csproj.CoreCompileInputs.cache
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\09_Database Project\obj\Debug\09_Database Project.exe
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\CSharpEgitimKampi\09_Database Project\obj\Debug\09_Database Project.pdb
