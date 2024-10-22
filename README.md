@@ -6,5 +6,5 @@
 6.Ders=  🎈 Diziler Konusu İşlendi ve Dizilerde Kullanılan Hazır Metotlar İle Örnekler Yapıldı.
 7.Ders=  🎈 Foreach Döngüsü işlendi ve Diziler ile birlikte kullanm şekilleri ile ilgili örnekler uygulandı.
 8.Ders=  🎈 Metotlar (Public,Private,Geriye değer döndüren ve geriye değer döndürmeyen) konusu işlendi ve örnekler yapıldı.
-9.Ders=  🎈 Sql Veri tipleri, Database ve Table  Oluşturma, C# ile adtabase bağlantısı ve verileri çağırma konusu işlendi ve örnek uydulama yapıldı.
+9.Ders=  🎈 Sql Veri tipleri, Database ve Table  Oluşturma, C# ile database bağlantısı ve verileri çağırma konusu işlendi ve örnek uydulama yapıldı.
 
