@@ -7,4 +7,4 @@
 🎈 7.Ders=   Foreach Döngüsü işlendi ve Diziler ile birlikte kullanm şekilleri ile ilgili örnekler uygulandı.
 🎈 8.Ders=   Metotlar (Public,Private,Geriye değer döndüren ve geriye değer döndürmeyen) konusu işlendi ve örnekler yapıldı.
 🎈 9.Ders=   Sql Veri tipleri, Database ve Table  Oluşturma, C# ile database bağlantısı ve verileri çağırma konusu işlendi ve örnek uydulama yapıldı.
-
+🎈 10.Ders= Sql üzerinde Creat,read,update,delete işlemleri C# üzerinden örneklerle yapıldı.
